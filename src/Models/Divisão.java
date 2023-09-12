@@ -1,5 +1,5 @@
 package Models;
 
 public interface Divisão {
-    public int divisão(int a, int b);
+    public int divisão(int a, int b) throws  ArithmeticException;
 }

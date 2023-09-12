@@ -5,7 +5,13 @@ public class Calculadora extends ICalculadora {
 
 
     @Override
-    public int divisão(int a, int b) {
+    public int divisão(int a, int b) throws ArithmeticException{
+        try {
+            return a / b;
+        }
+        catch (ArithmeticException e){
+            System.out.println("Está é uma divisão por zero");
+        }
         return a / b;
     }
 
