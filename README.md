@@ -1,7 +1,7 @@
 # Calculadora_Teste
 
 ## Descrição
-  <p> Este é um projeto de calculadora, capazde realizar operações de soma, subtração, divisão e multiplicação fazendo uso de dois números inteiros</p>
+  <p> Este é um projeto de teste de uma calculadora utilizando Junit, realizando diversos testes com os operadores de +, -, / e * com uso de dois números inteiros</p>
 
 ## Operações
 
