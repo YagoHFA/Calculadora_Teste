@@ -22,6 +22,7 @@ public class CalcSomaJunitTeste {
             Assertions.assertEquals(1, soma);
         }
 
+        //Somando dois numeros negativos
         @Test
         public void SomarDoisNegativos(){
             Calculadora calcSoma = new Calculadora();
