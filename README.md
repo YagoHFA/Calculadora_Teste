@@ -5,6 +5,8 @@
 
 ## Operações
 
+<img src="img/Calculadora.PNG">
+
   <p>
       A soma é realizada com dois númerros inetiros sendo a e b os parâmetros, o número a esquerda(a) sempre será somado com o número a direita(b)
       ou seja a regra de sinais será dependente do valor de b sendo negativo ou positivo;
