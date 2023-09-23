@@ -40,6 +40,7 @@ Estes são os resultados das operações:
 Estes são os testes que foram realizados fazendo uso da função de Subtração.
 <img src="img/SubTeste1.PNG">
 <img src="img/SubTeste2.PNG">
+<br>
 Estes são os resultados das operações:
 <p></p>
 <img src="img/SubResult1.PNG">
@@ -48,6 +49,7 @@ Estes são os resultados das operações:
 Estes são os testes que foram realizados fazendo uso da função de Multiplicação
 <img src="img/MultTeste1.PNG">
 <img src="img/MultTeste2.PNG">
+<br>
 Estes são os resultados das operações: 
 <p></p>
 <img src="img/MultResult1.PNG">
@@ -56,6 +58,7 @@ Estes são os resultados das operações:
 Estes são os testes que foram realizados fazendo uso da função de Divisão
 <img src="img/DivTeste1.PNG">
 <img src="img/DivTeste2.PNG">
+<br>
 Estes são os resultados das operações:
 <p></p>p
 <img src="img/DivResult1.PNG">
