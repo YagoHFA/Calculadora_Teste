@@ -5,6 +5,8 @@
 
 ## Operações
 
+<img src="img/CalculadoraClass.PNG">
+
   <p>
       A soma é realizada com dois númerros inetiros sendo a e b os parâmetros, o número a esquerda(a) sempre será somado com o número a direita(b)
       ou seja a regra de sinais será dependente do valor de b sendo negativo ou positivo;
@@ -25,3 +27,37 @@
    </p>
 
    
+## Testes
+
+### Soma
+Estes são os testes que foram realizados fazendo uso da função de Soma.
+<img src="img/SomaTeste1.PNG">
+<img src="img/SomaTeste2.PNG">
+Estes são os resultados das operações:
+<img src="img/SomaResult1.PNG">
+
+### Subtração
+Estes são os testes que foram realizados fazendo uso da função de Subtração.
+<img src="img/SubTeste1.PNG">
+<img src="img/SubTeste2.PNG">
+Estes são os resultados das operações:
+<img src="img/SubResult1.PNG">
+
+### Multiplicação
+Estes são os testes que foram realizados fazendo uso da função de Multiplicação
+<img src="img/MultTeste1.PNG">
+<img src="img/MultTeste2.PNG">
+Estes são os resultados das operações: 
+
+<img src="img/MultResult1.PNG">
+
+### Divisão
+Estes são os testes que foram realizados fazendo uso da função de Divisão
+<img src="img/DivTeste1.PNG">
+<img src="img/DivTeste2.PNG">
+Estes são os resultados das operações:
+<img src="img/DivResult1.PNG">
+
+Este é o resultado de um teste de Divisão usando zero como Divisor:
+<img src="img/DivResult2.PNG">
+
