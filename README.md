@@ -33,6 +33,7 @@
 Estes são os testes que foram realizados fazendo uso da função de Soma.
 <img src="img/SomaTeste1.PNG">
 <img src="img/SomaTeste2.PNG">
+<p></p>
 Estes são os resultados das operações:
 <img src="img/SomaResult1.PNG">
 
