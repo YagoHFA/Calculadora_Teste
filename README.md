@@ -56,6 +56,7 @@ Estes são os testes que foram realizados fazendo uso da função de Divisão
 <img src="img/DivTeste1.PNG">
 <img src="img/DivTeste2.PNG">
 Estes são os resultados das operações:
+<p>
 <img src="img/DivResult1.PNG">
 
 Este é o resultado de um teste de Divisão usando zero como Divisor:
