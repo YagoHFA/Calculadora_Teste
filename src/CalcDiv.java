@@ -28,7 +28,7 @@ public class CalcDiv {
         //Este cenario resulta inteiro esperado
 
         //Cenario de teste 6: Divisão de dois valores com divisor sendo zero
-        //div = calcDiv.divisão(3, 0);
+        div = calcDiv.divisão(3, 0);
         //System.out.println(div);
         //Este Cenario retorna o erro esperado de divisão por zero
 
