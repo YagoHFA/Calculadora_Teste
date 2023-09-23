@@ -27,6 +27,7 @@
 ## Testes
 ### Soma:
 Teste 1:
+
 <img src="img/SomaTeste1.PNG">
 <p> 
     Este é um teste realizando a soma de dois números inteiros positivos, 
@@ -52,6 +53,7 @@ Resultado:
 
 ### Divisão:
 Teste 1:
+
 <img src="img/DivTeste1.PNG">
 <p> 
     Este é um teste realizando a divião de dois números inteiros positivos iguais, 
@@ -77,6 +79,7 @@ Resultado:
 
 ### Multiplicação:
 Teste 1:
+
 <img src="img/MultTeste1.PNG">
 <p> 
     Este é um teste realizadn o a  multiplicação de dois número coum um sendo zero e o outro um número 
@@ -101,6 +104,7 @@ Resultado:
 
 ### Subtração:
 Teste 1:
+
 <img src="img/SubTeste1.PNG">
 <p> 
     Este é um teste de subtração com dois números positivos onde o Minuendo sendo omaior núemro da expessão, com 7 e 2
