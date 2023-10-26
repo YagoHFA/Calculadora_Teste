@@ -1,6 +1,10 @@
 package Models;
 
 /**
+ * @author YagoHFA
+ * @version 2.0
+ * @since versão 1.0 da aplicação
+ *
  *  Classe calculadora onde as regras de operacoes serao implementadas
  */
 public class Calculadora extends ICalculadora {
