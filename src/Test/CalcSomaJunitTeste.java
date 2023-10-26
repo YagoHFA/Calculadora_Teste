@@ -1,9 +1,12 @@
+package Test;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import Models.Calculadora;
 
 public class CalcSomaJunitTeste {
 
-        @SuppressWarnings("Deprecation")
+
 
         //Somando dois numeros positivos
         @Test

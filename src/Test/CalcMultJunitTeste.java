@@ -1,5 +1,8 @@
+package Test;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import Models.Calculadora;
 
 public class CalcMultJunitTeste {
 
