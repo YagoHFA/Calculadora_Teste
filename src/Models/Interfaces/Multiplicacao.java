@@ -3,7 +3,7 @@ package Models.Interfaces;
 /**
  * @author YagoHFA
  * @version 2.0
- * @since versão 1.0 da aplicação
+ * @since versao 1.0 da aplicacao
  *
  * Interface a ser utilizada para implementar a regra de multiplicacao
  */

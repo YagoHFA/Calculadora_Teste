@@ -8,7 +8,7 @@ import Models.Interfaces.Subtracao;
 /**
  * @author YagoHFA
  * @version 1.0
- * @since versão 1.0 da aplicação
+ * @since versao 1.0 da aplicacao
  *
  * Classe abstrata que serve de molde para que a classe calculadora poder ser implementada
  */
